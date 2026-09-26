@@ -1,10 +1,7 @@
 # Unitix.Injectorz
 Unity app, for injecting unity apps and getting boosts!
 
-IF YALL HAVING PROBLEMS, REPORT IT
-
-doing updates often or prob not
-
+If a there is a problem, please report it
 
 
 <img width="1206" height="743" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/f5c87922-75b8-4850-9475-68bbbd6d5f81" />
