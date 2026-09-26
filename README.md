@@ -14,3 +14,4 @@ and yeaaah
 
 enjoy!
 
+Copyright © 2026 Shadee-Lz. All rights reserved.
