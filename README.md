@@ -13,8 +13,6 @@ and yeaaah
 
 ## Downloads
 
-## Downloads
-
 [![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge)](https://github.com/Shadee-s3/Unitix.Injectorz/releases/latest)
 
 enjoy!
